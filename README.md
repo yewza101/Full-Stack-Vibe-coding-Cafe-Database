@@ -1,2 +1,2 @@
-# Full-Stack-Vibe-coding-Cafe-Database
+# Full-Stack-Cafe-Database
 Cafe Website + Database Yrs 3 
